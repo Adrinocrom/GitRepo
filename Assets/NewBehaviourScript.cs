@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class NewBehaviourScript : MonoBehaviour {
-
+	public int a;
 	// Use this for initialization
 	void Start () {
 	
